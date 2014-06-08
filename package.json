@@ -1,8 +1,15 @@
 {
   "name": "mongoose-timestamp",
   "description": "Mongoose plugin that adds createdAt and updatedAt auto-assigned date properties",
-  "version": "0.2.1",
+  "version": "0.1.2",
   "author": "Nicholas Penree <nick@penree.com>",
+  "contributors": [
+    {
+      "name" : "Hublo",
+      "email" : "team@hublo.co",
+      "url" : "http://hublo.com/"
+    }
+  ],
   "keywords": [
     "mongodb",
     "mongoose",
