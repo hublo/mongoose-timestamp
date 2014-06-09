@@ -10,6 +10,7 @@
       "url" : "http://hublo.com/"
     }
   ],
+  "private": true,
   "keywords": [
     "mongodb",
     "mongoose",
